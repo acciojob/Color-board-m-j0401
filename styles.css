@@ -18,12 +18,11 @@
 	height:10px;
 	width:10px;
 	background-color:rgb(29,29,29);
-	opacity:0.3;
-	transition:all 1s ease;
-	
+	opacity:0.5;
+	transition:background-color,1s,ease;
 }
-.square:hover{
+/* .square:hover{
 	background-color:red;
 }
-
+ */
 
